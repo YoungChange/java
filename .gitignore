@@ -1,3 +1,6 @@
+# java classcode runable file
+*.class
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
